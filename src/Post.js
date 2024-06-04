@@ -15,7 +15,7 @@ const [post,setPost] = useState({});
 
     return (
     <div>
-        Post {post?
+        Post Me Re {post?
         <div>
             <p>ID : {post.id}</p>
         </div>:null}
